@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+		<dBConnectString>jdbc:sqlserver://127.0.0.1\SQLEXPRESS;databaseName=ExamReport;user=sa;password=Abc12345</dBConnectString>
+		<fileWaitTime>10</fileWaitTime>
+		<sourcePath>Z:\BUFFALO\workspace\PrintDataParser\Input\</sourcePath>
+		<destPath>Z:\BUFFALO\workspace\PrintDataParser\Dest\</destPath>
+		<timerPeriod>5</timerPeriod>
+</configuration>
